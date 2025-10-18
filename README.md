@@ -1,8 +1,42 @@
 # 💫 About Me:
 Lead DevOps Engineer with 3 years of experience architecting, deploying, and optimizing scalable cloud solutions across AWS, and GCP. Expert in automating cloud operations using Python, Bash, with proficiency in container orchestration using Kubernetes, Docker, and Helm. Proven track record of building robust CI/CD pipelines with tools like ArgoCD, Jenkins, Gitlab CI and GitHub Actions. Adept in Infrastructure as Code (IaC) using Terraform, Pulumi, ensuring efficient resource management and cost optimization. Collaborative squad leader passionate about driving digital transformation and achieving impactful results.
 
+## 🧰 Skills
+- **Cloud:** AWS, GCP
+- **Languages:** Python, TypeScript, Bash, PowerShell
+- **Containers:** Kubernetes, Docker, Docker Compose, Helm
+- **CI/CD:** Jenkins, GitHub Actions, ArgoCD, GitLab CI, Bitbucket pipelines
+- **IaC:** Terraform, Pulumi, Ansible
+- **Monitoring:** Prometheus, Grafana, Loki, Mimir, Tempo, ELK Stack
+- **Security:** Security Hub, Scout Suite, Prowler
 
-## 🌐 Socials:
+---
+
+## 💼 Experience
+- **DevOps Lead Engineer, Current Company (2022–Present)**
+  - Implemented and maintained CI/CD pipelines (Jenkins, GitLab CI, GitHub Actions)
+  - Managed Kubernetes clusters and container orchestration
+  - Automated infrastructure provisioning (Terraform, Ansible)
+  - Built monitoring/logging solutions (ELK, Prometheus, Grafana)
+  - Designed and implemented AWS cloud infrastructure
+  - Created and maintained Docker containers
+  - Automated testing and deployment processes
+  - Collaborated with development teams to optimize performance
+
+## 🏆 AWS Certifications
+<div align="center">
+  <img src="https://images.credly.com/size/220x220/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="GCP Associate Cloud Engineer" width="100" height="100"/>
+  <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solution Architect - Associate" width="100" height="100"/>
+</div>
+
+<!-- <div align="center">
+  <sub>Click on the badges to verify my certifications on Credly</sub>
+</div> -->
+
+---
+
+
+## 🌐 Socials & Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-sharma-631099192) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21302780) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ll__chirag__ll) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@chiragsharma.dev) 
 
 # 💻 Tech Stack:
